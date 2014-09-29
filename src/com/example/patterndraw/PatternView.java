@@ -28,6 +28,7 @@ public class PatternView extends View
 	{
 		super(context, attrs);
 
+		//my test
 		m_lineBrush.setColor(POS_LINE_COLOR);
 		m_lineBrush.setStrokeWidth(1);
 		m_lineBrush.setStyle(Paint.Style.STROKE);
